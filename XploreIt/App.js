@@ -17,7 +17,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-
+//apaloss
 import {
   Colors,
   DebugInstructions,
